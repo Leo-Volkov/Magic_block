@@ -579,7 +579,7 @@ export default {
         position: relative;
         height: 800px;
 
-        background-image: url(../assets/фон.png);
+        background-color: #aaa;
     }
 
     .plug_in_container {
